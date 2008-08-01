@@ -1,0 +1,161 @@
+html {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #030;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	letter-spacing: 0.1em;
+	color: #fff;
+	background-color: #030;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+}
+
+a:link {
+	color: #f00;
+	text-decoration: none;
+	letter-spacing: 0.2em;
+}
+a:visited {
+	color: #f00;
+	text-decoration: none;
+	letter-spacing: 0.2em;
+}
+a:hover {
+	color: #fff;
+	text-decoration: none;
+	letter-spacing: 0.3em;
+}
+a:active {
+	color: #fff;
+	text-decoration: none;
+	letter-spacing: 0.3em;
+}
+
+.top {
+	width: 100%;
+	height: 200px;
+	float: left;
+	clear: both;
+	background: url('img/surface.gif');
+}
+
+.middle {
+	width: 100%
+	margin: 0;
+	padding: 0;
+	float: left;
+	clear: both;
+	background: url('img/bodyside.png') no-repeat top left;
+}
+
+.bottom {
+	width: 100%;
+	height: 400px;
+	float: left;
+	clear: both;
+}
+
+.center {
+	width: 1000px;
+	margin: 20px;
+	padding: 0;
+	text-align: left;
+}
+
+.logo {
+	width: 100%;
+	height: 300px;
+	float: right;
+	clear: right;
+	background: url('img/logo.png') no-repeat top left;
+}
+
+.leftphoto {
+	width: 400px;
+	height: 500px;
+	float: left;
+	clear: left;
+	background: url('img/barn.png') no-repeat top left;
+}
+
+.menu {
+	width: 100%;
+	height: 35px;
+	float: right;
+	clear: right;
+	text-align: center;
+}
+
+.menu ul {
+	display: block;
+	width: 800px;
+	height: 35px;
+	margin: 0 auto;
+	padding: 0;
+	list-style-type: none;
+}
+
+.menu li {
+	display: inline;
+}
+
+.menu a {
+	display: block;
+	width: 150px;
+	height: 25px;
+	margin: 5px;
+	padding: 0;
+	padding-top: 2px;
+	float: left;
+	background: url('img/button.png') no-repeat;
+}
+
+.menu li a:hover {
+	background: url('img/button-h.png') no-repeat;
+}
+
+.float {
+	width: 400px;
+	margin: 15px;
+	float: right;
+	clear: right;
+	font-size: 0.8em;
+	background: #000 url('img/float-body.png') repeat-y bottom left;
+}
+
+.float h2 {
+	width: 380px;
+	height: 10px;
+	margin: 0;
+	padding: 10px;
+	font-size: 1.5em;
+	letter-spacing: 0.5em;
+	background: #000 url('img/float-head.png') no-repeat bottom left;
+}
+
+.float div {
+	width: 380px;
+	margin: 0;
+	padding: 10px;
+	padding-bottom: 20px;
+	background: url('img/float-foot.png') no-repeat bottom left;
+}
+
+#rss {
+	width: 400px;
+	margin: 20px 0;
+	padding: 0;
+}

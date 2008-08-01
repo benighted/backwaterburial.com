@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="http://www.backwaterburial.com/rss.css" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+		<title>Backwater Burial</title>
+		<atom:link href="http://www.backwaterburial.com/rss.xml" rel="self" type="application/rss+xml" />
+		<link>http://www.backwaterburial.com</link>
+		<description>News updates, show listings, and other information about Backwater Burial.</description>
+		<lastBuildDate>Fri, 28 June 2008 21:20:00 GMT</lastBuildDate>
+		<language>en-us</language>
+
+		<item>
+		<title>Rock for Wishes 2008</title>
+		<link>http://www.backwaterburial.com/news.php?date=20080801</link>
+		<guid>http://www.backwaterburial.com/news.php?date=20080801</guid>
+		<pubDate>Fri, 01 Aug 2008 21:20:00 GMT</pubDate>
+		<description>Backwater Burial added to the Rock for Wishes 2008 lineup.</description>
+		</item>
+
+		<item>
+		<title>Cincinnati Dates Booked</title>
+		<link>http://www.backwaterburial.com/news.php?date=20080502</link>
+		<guid>http://www.backwaterburial.com/news.php?date=20080502</guid>
+		<pubDate>Fri, 02 May 2008 21:20:00 GMT</pubDate>
+		<description>Two shows booked at The Blue Note in Cincinnati.</description>
+		</item>
+
+		<item>
+		<title>Rich City Tattoo Expo and Web Update</title>
+		<link>http://www.backwaterburial.com/news.php?date=20080501</link>
+		<guid>http://www.backwaterburial.com/news.php?date=20080501</guid>
+		<pubDate>Thu, 01 May 2008 21:20:00 GMT</pubDate>
+		<description>Information about the Rich City Tattoo Expo and the latest web update.</description>
+		</item>
+
+		<item>
+		<title>New T-Shirts in Stock</title>
+		<link>http://www.backwaterburial.com/news.php?date=20080216</link>
+		<guid>http://www.backwaterburial.com/news.php?date=20080216</guid>
+		<pubDate>Sat, 16 Feb 2008 21:20:00 GMT</pubDate>
+		<description>New T-Shirts are in stock and will be available online soon.</description>
+		</item>
+
+		<item>
+		<title>The New Demo is Finished!</title>
+		<link>http://www.backwaterburial.com/news.php?date=20080201</link>
+		<guid>http://www.backwaterburial.com/news.php?date=20080201</guid>
+		<pubDate>Fri, 01 Feb 2008 21:20:00 GMT</pubDate>
+		<description>Backwater Burial has finished recording a new demo album at Secret Studio in Nashville, TN.</description>
+		</item>
+
+		<item>
+		<title>BWB Takes 10th Place in the Battle of the Bands</title>
+		<link>http://www.backwaterburial.com/news.php?date=20071230</link>
+		<guid>http://www.backwaterburial.com/news.php?date=20071230</guid>
+		<pubDate>Sun, 30 Dec 2007 21:20:00 GMT</pubDate>
+		<description>Backwater Burial advanced to the final round and received 10th place in the Lake Cumberland Battle of the Bands.</description>
+		</item>
+
+		<item>
+		<title>Online Poll for the Battle of the Bands</title>
+		<link>http://www.backwaterburial.com/news.php?date=20071224</link>
+		<guid>http://www.backwaterburial.com/news.php?date=20071224</guid>
+		<pubDate>Mon, 24 Dec 2007 21:20:00 GMT</pubDate>
+		<description>There is an online poll for the Battle of the Bands this weekend. The winner of this poll will get a "special" award after the battle.</description>
+		</item>
+
+		<item>
+		<title>Louisville Show Date Changed</title>
+		<link>http://www.backwaterburial.com/news.php?date=20071205</link>
+		<guid>http://www.backwaterburial.com/news.php?date=20071205</guid>
+		<pubDate>Wed, 05 Dec 2007 21:20:00 GMT</pubDate>
+		<description>The Louisville show has been changed to January 31st.</description>
+		</item>
+
+		<item>
+		<title>Rocktoberfest 2007</title>
+		<link>http://www.backwaterburial.com/news.php?date=20071027</link>
+		<guid>http://www.backwaterburial.com/news.php?date=20071027</guid>
+		<pubDate>Sat, 27 Oct 2007 21:20:00 GMT</pubDate>
+		<description>Backwater Burial introduced the new frontman, Metal Mike, at Rocktoberfest 2007 in London, KY.</description>
+		</item>
+
+</channel>
+</rss>
+
+

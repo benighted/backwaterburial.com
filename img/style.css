@@ -1,0 +1,149 @@
+body {
+	background-image: url('./img/water.jpg');
+	background-color: #000;
+	color: #fff;
+	font-size: 10pt;
+	font-family: sans-serif;
+}
+
+a:link {
+	text-decoration: none; 
+	color: #F00;
+}
+
+a:visited {
+	color: #A00;
+	text-decoration: none; 
+}
+
+a:hover {
+	color: #FFF;
+	text-decoration: none; 
+}
+
+a:active {
+	color: #FFF;
+	text-decoration: none; 
+}
+
+h1 {
+	font-size: 14pt;
+	letter-spacing: 5px;
+}
+
+h2 {
+	font-size: 12pt;
+	letter-spacing: 3px;
+	width: 100%;
+	background: #333;
+}
+
+h3 {
+	font-size: 10pt;
+	letter-spacing: 2px;
+	font-weight: bolder;
+}
+
+div#background {
+	width: 100%;
+	background-image: url('./img/woodsbg.jpg');
+	background-repeat: repeat-y;
+	background-position: bottom right;
+}
+
+div#heading {
+	width: 100%;
+	float: left;
+	clear: right;
+}
+
+div#menu {
+	margin: 20px;
+	scroll: auto;
+	width: 100%;
+}
+
+div#menu a:link {
+	padding: 3px;
+}
+
+div#menu a:visited {
+	padding: 3px;
+}
+
+div#menu a:hover {
+	padding: 5px;
+	letter-spacing: 1px;
+	font-weight: bolder;
+}
+
+div#menu a:active {
+	padding: 5px;
+	letter-spacing: 1px;
+	font-weight: bolder;
+}
+
+div#content {
+	margin: auto;
+	width: 800px;
+	scroll: auto;
+	float: left;
+}
+
+div#flyer {
+	margin: 20px;
+	width: 400px;
+	float: left;
+	clear: left;
+}
+
+div#news {
+	margin: 20px;
+	width: 400px;
+	scroll: auto;
+	float: left;
+	clear: left;
+}
+
+div#shows {
+	margin: 20px;
+	width: 300px;
+	scroll: auto;
+	float: right;
+	clear: right;
+}
+
+table#shows {
+	width: 100%;
+}
+
+table#shows td {
+	font-size: 8pt;
+	font-family: sans-serif;
+	background: #333;
+}
+
+div#photo {
+	margin: 20px;
+	width: 300px;
+	scroll: auto;
+	float: right;
+	clear: right;
+}
+
+div#music {
+	margin: 20px;
+	width: 300px;
+	scroll: auto;
+	float: right;
+	clear: right;
+}
+
+div#contact {
+	margin: 20px;
+	width: 300px;
+	scroll: auto;
+	float: right;
+	clear: right;
+}
+
